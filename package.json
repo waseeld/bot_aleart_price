@@ -12,6 +12,7 @@
   "dependencies": {
     "binance-client": "^3.0.10",
     "dotenv": "^16.0.0",
-    "grammy": "^1.7.0"
+    "grammy": "^1.7.0",
+    "ranidb": "https://github.com/waseeld/ranidb"
   }
 }
